@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a pre-final year B-Tech undergraduate from NIT - Allahabad working on refining my skills on Web Development using MERN stack and various other technologies. Always eager to learn and work hard to achieve acomplishments.
+I'm a final year B-Tech undergraduate from NIT - Allahabad working on refining my skills on Web Development using MERN stack and various other technologies. Always eager to learn and work hard to achieve acomplishments.
 
 
 ## 🌐 Socials:
